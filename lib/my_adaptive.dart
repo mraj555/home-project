@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 
 class MyAdaptive extends StatefulWidget {
   const MyAdaptive({Key? key}) : super(key: key);
