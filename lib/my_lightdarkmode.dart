@@ -84,7 +84,7 @@ class _MyLightDarkModeState extends State<MyLightDarkMode> {
                           },
                         );
                 },
-                title: Text('User Preference'),
+                title: Text('Dark Mode'),
               ),
             ],
           ),
